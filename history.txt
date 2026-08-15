@@ -1,0 +1,94 @@
+
+
+You : help
+Bot : 
+================== HELP MENU ==================
+• Hi / Hello
+• Who are you
+• What is AI
+• Machine Learning
+• Deep Learning
+• Python
+• Calculate 20+30
+• Joke
+• Motivate me
+• Study Tips
+• Tell me a Fact
+• Time
+• Date
+• History
+• Stats
+• Bye
+===============================================
+
+----------------------------------------
+
+You : hello
+Bot : Hello rumanakousar! 😊
+----------------------------------------
+
+You : who are you
+Bot : My name is Smart AI Assistant. I am your Rule-Based AI Assistant.
+----------------------------------------
+
+You : machine learning
+Bot : Machine Learning is a subset of AI where computers learn patterns from data without explicit programming.
+----------------------------------------
+
+You : tell me a fact
+Bot : Python was named after Monty Python, not the snake!
+----------------------------------------
+
+You : motivate me
+Bot : Trust Allah and keep working hard.
+----------------------------------------
+
+You : study tips
+Bot : Study for 50 minutes and take a 10-minute break.
+----------------------------------------
+
+You : joke
+Bot : Why do Java developers wear glasses? Because they don't C#.
+----------------------------------------
+
+You : time
+Bot : Current Time : 12:21:07 PM
+----------------------------------------
+
+You : date
+Bot : Today's Date : 02 August 2026
+----------------------------------------
+
+You : status
+Bot : Sorry, I don't understand that.
+Type HELP to see available commands.
+----------------------------------------
+
+You : stats
+Bot : 
+================ CHAT STATISTICS ================
+User Name        : rumanakousar
+Total Messages   : 12
+Greetings        : 1
+AI Questions     : 1
+Math Questions   : 0
+Jokes Asked      : 1
+Unknown Questions: 1
+=================================================
+
+----------------------------------------
+
+You : history
+Bot : Welcome back rumanakousar!
+----------------------------------------
+
+You : bye
+Bot : 
+================================================
+Thank you rumanakousar 😊
+It was nice chatting with you.
+Keep learning.
+Good Luck ❤️
+================================================
+
+----------------------------------------
